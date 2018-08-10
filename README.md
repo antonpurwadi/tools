@@ -1,7 +1,6 @@
 - pkg install git
 - pkg install nodejs
-- git clone https://github.com/anadhelf/ig
-- cd ig
+- git clone https://github.com/antonpurwadi/tools
 - npm install
 - node unfollall
 
